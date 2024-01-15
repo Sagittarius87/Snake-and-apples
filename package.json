@@ -1,0 +1,19 @@
+{
+  "name": "snake-and-apples",
+  "version": "1.0.0",
+  "description": "Игра \"Змейка и яблоки\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sagittarius87/Snake-and-apples.git"
+  },
+  "author": "Рыков Ярослав Александрович",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sagittarius87/Snake-and-apples/issues"
+  },
+  "homepage": "https://github.com/Sagittarius87/Snake-and-apples#readme"
+}
